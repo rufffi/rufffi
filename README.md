@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**rufffi/rufffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a undergraduate student on his final year majoring in Aerospace Engineering. 
+A novice in programming and is keen to learn the In's and Out's of the data science realm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🔭 I’m currently working on graduating.
+- 🌱 I’m currently learning Python to apply Machine Learning on Aerodynamics.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with Machine Learning and Deep Learning.
+- 💬 Ask me about relationship advices!
+- 📫 Slide into my DM's @rufffi
+- 😄 Pronouns: he/him, please.
 - ⚡ Fun fact: ...
--->
+--> Lowkey weeb
