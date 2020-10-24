@@ -10,7 +10,6 @@ A novice in programming and is keen to learn the In's and Out's of the data scie
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Machine Learning and Deep Learning.
 - 💬 Ask me about anything! but no guaranteed answers.
-- 📫 Slide into my DM's @rufffi
 - 😄 Pronouns: he/him, please.
 - ⚡ Fun fact: ...
 --> Lowkey weeb
